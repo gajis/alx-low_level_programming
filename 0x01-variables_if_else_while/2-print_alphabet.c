@@ -4,7 +4,7 @@
  * Description - prog display a-z
  * Return: Always 0 (success)
  */
-int main(void)
+int  main(void)
 {
 	char ch = 'a';
 
@@ -12,7 +12,8 @@ int main(void)
 	{
 		putchar(ch);
 		ch++;
-		putchar ('\n');
+
+		putchar (' ');
 	}
 
 	return (0);
