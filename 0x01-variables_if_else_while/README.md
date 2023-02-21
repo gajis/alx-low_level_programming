@@ -6,3 +6,4 @@ Program that prints all single digit numbers of base 10 starting from 0
 Program that prints single digits of base 10 starting from 0
 Program prints all numbers of base 16in lower case
 Program that prints lower case alphabet in reverse
+Program that prints all possible combinationsof single digits
