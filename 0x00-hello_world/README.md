@@ -4,3 +4,5 @@
 3 script that compiles a C file and creates an executable named cisfun
 Program that prinys a string
 Program that prints a string
+Peogram prints the size of various types
+Script that generates assembly code
