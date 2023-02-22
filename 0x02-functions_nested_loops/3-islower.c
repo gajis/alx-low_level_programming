@@ -2,6 +2,7 @@
 /**
  * _islower - Entry point
  * Descriprion - Function that checks for lower case character
+ * @c: the integer value it receives
  * Return: 1 if true, 0 if false
  */
 int _islower(int c)
