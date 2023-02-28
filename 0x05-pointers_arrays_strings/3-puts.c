@@ -10,10 +10,10 @@ void _puts(char *str)
 {
 	int fat = 0;
 
-	while (str[fat] != '\0')
-		++fat;
+	while (str[fat])
 	{
-		_putchar(fat);
+		_putchar(str[fat]);
+		fat++;
 	}
 	_putchar('\n');
 }
