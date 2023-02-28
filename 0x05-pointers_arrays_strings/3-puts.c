@@ -6,11 +6,14 @@
  *
  * Return: void
  */
-void_puts(char *str)
+void _puts(char *str)
 {
-	while (*str != '\0')
+	int fat = 0;
+
+	while (str[fat] != '\0')
+		++fat;
 	{
-		_putchar(*str++);
+		_putchar(fat);
 	}
 	_putchar('\n');
 }
