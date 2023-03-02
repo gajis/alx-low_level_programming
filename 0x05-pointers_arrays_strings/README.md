@@ -7,3 +7,4 @@
 6 function that prints every other character of a string
 7 function that prints half a string
 8 funtion that prints n elements of an array of integers
+9 function that copies the string pointed to by src
