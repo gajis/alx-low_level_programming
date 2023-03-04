@@ -7,7 +7,7 @@
  * description - program prints positive and negative numbers
  * Return: Always 0 (success)
 */
-int main(void)
+int positive_or_negative(int i)
 {
 	int n;
 
