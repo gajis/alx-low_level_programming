@@ -4,3 +4,4 @@ Function that prints the alphabet in lower case, followed by new line
 Program that prints the sign of a number
 6 Function that computes the absolute value of an integer
 7 Function that prints the last digit of a number
+10 function that adds two integers and returns the result
