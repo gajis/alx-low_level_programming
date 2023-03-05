@@ -4,3 +4,4 @@
 6 function that draws astraight line in the terminal
 7 function that draws a diagonal line on the terminal
 8 function that prints a square, followed by a new line
+9 Fizz-Buzz test
