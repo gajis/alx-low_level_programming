@@ -7,3 +7,4 @@ Program that prints the sign of a number
 10 function that adds two integers and returns the result
 8 function that prints every minute of the day
 9 function that prints the 9times table, starting 0
+11 function that prints all natural numbers from n to 98
