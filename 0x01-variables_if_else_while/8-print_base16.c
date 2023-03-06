@@ -1,29 +1,23 @@
 #include <stdio.h>
+
 /**
- * main - Entry point
- * Description - Program that prints base16 numbers in lower case
- * Return: Always 0 (success)
+ * main - program that prints all numbers of base64 in lowercase.
+ * Return: void
  */
 int main(void)
 {
-	char ch;
 	int x;
+	char c;
 
-	ch = 'a';
-	x = 0;
-
-	while (x < 10)
+	for (x = 48; x < 58; x++)
 	{
 		putchar(x);
-		x++;
 	}
-	while (ch <= 'f')
+
+	for (c = 'a'; c < 'g'; c++)
 	{
-		putchar(ch);
-		ch++;
-
+		putchar(c);
 	}
-	putchar("\n");
-
+	putchar('\n');
 	return (0);
 }
