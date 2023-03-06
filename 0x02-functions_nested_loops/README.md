@@ -8,3 +8,4 @@ Program that prints the sign of a number
 8 function that prints every minute of the day
 9 function that prints the 9times table, starting 0
 11 function that prints all natural numbers from n to 98
+100 function that prints the n times table, starting 0
