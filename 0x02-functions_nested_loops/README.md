@@ -10,3 +10,4 @@ Program that prints the sign of a number
 11 function that prints all natural numbers from n to 98
 100 function that prints the n times table, starting 0
 101 program that computes and print the sum of all the multiples of 3 or 5
+102 program that prints the first 50 Fibonacci numbers
