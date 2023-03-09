@@ -6,3 +6,4 @@ This is Recursion project
 5 function that returns the natural square root of a number
 7 function that returns 1 if a steing is a palindrome and 0 if not
 1 function that prints a string  in reverse
+0 function that prints a string, followed by a new line
