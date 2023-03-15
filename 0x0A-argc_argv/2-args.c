@@ -1,19 +1,17 @@
-#include "main.h"
-#include <stdlib.h>
+#include <stdio.h>
 
 /**
- * print_arg - Program that prints all arguments it receives
+ * main - Program that prints all arguments it receives
  * @argc: counter
  * @argv: pointer
  * Return: 0
  */
-int print_arg(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
-	int i;
+	int arg;
 
-	for (i = 0; i < argc; i++)
-	{
-		_putchar(argv[i]);
-	}
+	for (arg = 0; arg < argc; arg++)
+		printf("%s\n", argv[arg]);
+
 	return (0);
 }

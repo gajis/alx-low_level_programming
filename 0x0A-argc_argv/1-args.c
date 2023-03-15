@@ -1,5 +1,5 @@
-#include "main.h"
-#include <stdlib.h>
+#include <stdio.h>
+
 
 /**
  * print_num - Function that prints number of arguments passed into it
