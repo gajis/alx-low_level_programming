@@ -2,13 +2,13 @@
 #include <stdlib.h>
 
 /**
- * _counter - Function that prints number of arguments passed into it
+ * print_num - Function that prints number of arguments passed into it
  * @argc: counter
  * @argv: pointer
  * Return: 0
  */
 int print_num(int argc, char *argv[])
 {
-	printf("%d\n", argc);
+	_putchar(argc);
 	return (0);
 }
