@@ -7,7 +7,7 @@
  * @argv: pointer
  * Return: 0
  */
-int _counter(int argc, char* argv[])
+int print_num(int argc, char *argv[])
 {
 	printf("%d\n", argc);
 	return (0);
