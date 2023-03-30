@@ -1,3 +1,4 @@
+#include <stdlib>
 #include "lists.h"
 /**
  * list_len - Function that adds a new node at the beginning
